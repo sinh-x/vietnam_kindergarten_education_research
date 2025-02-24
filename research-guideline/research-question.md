@@ -115,7 +115,7 @@ than a barrier in resource-constrained areas.
 - Data Analysis: Collect and analyze data on program outcomes, such as trainee
   performance, teacher retention rates, and student learning outcomes.
 
-IV. Potential Impact:
+## 3. Potential Impact:
 
 - Increased Access to Quality Education: Provide more individuals, especially
   those in underserved communities, with the opportunity to become qualified
@@ -135,7 +135,7 @@ IV. Potential Impact:
   early childhood education and supporting the development of future
   generations.
 
-## 3. Research Phases for Implementation:
+## 4. Research Phases for Implementation:
 
 - **Phase 1: Understanding the Current Landscape**
   - Focus on a specific local area where there are few or no universities to
