@@ -14,7 +14,11 @@ mình đưa ra 3 vùng về cảm xúc dựa trên 3 vùng năng lực của thu
 Và với sự hỗ trợ của AI, mình phát triển ra được một bộ nội dung cụ thể để ứng
 dụng với Whale dựa trên các nguyên tắc của Scaffolding.
 
-Chiến lược Giàn giáo cho từng Vùng:
+Chiến lược Scaffolding(Giàn giáo) cho từng Vùng:
+
+_Ghi chú: Phần này của AI viết, khá chung chung và chưa đầy đủ, nếu ứng dụng cụ
+thể sẽ cần phân ra theo độ tuổi của trẻ, năng lực giao tiếp của từng trẻ, mấy
+cái này cần có kinh nghiệm làm việc với trẻ chứ không áp dụng máy móc được nhé._
 
 1. Vùng vui vẻ (Duy trì và Mở rộng)
 
@@ -90,6 +94,8 @@ Chiến lược Giàn giáo cho từng Vùng:
     kiên nhẫn và kiên trì trong nỗ lực của bạn.
   - Tự điều chỉnh: Người chăm sóc phải có khả năng điều chỉnh cảm xúc của chính
     mình để hỗ trợ trẻ một cách hiệu quả.
+
+_(Phần tiếp theo là Sinh viết)_
 
 Sau đó mình có sử dụng AI dựa trên lý thuyết trên để phân tích hai tình huống mà
 mình làm cho Whale rơi vào vùng bùng nổ cảm xúc... bài dài nên cái này mình để
