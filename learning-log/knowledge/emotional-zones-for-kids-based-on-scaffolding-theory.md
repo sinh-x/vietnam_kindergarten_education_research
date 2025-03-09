@@ -92,3 +92,4 @@ Date: 2025-03-09
 By consistently applying these scaffolding strategies, you can help children
 expand their zones of joy and exploration, develop essential emotional
 regulation skills, and minimize the frequency and intensity of emotional bursts.
+
